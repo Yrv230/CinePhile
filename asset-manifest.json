@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/CinePhile/static/js/main.fbdafbd8.js",
+    "static/media/bg.png": "/CinePhile/static/media/bg.d25ccefee26b4858ddc7.png",
+    "static/media/Inter-Regular.ttf": "/CinePhile/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/Montserrat-BoldItalic.ttf": "/CinePhile/static/media/Montserrat-BoldItalic.360c8432a3f6bb697796.ttf",
+    "static/media/Montserrat-Bold.ttf": "/CinePhile/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Light.ttf": "/CinePhile/static/media/Montserrat-Light.6fcc9263a21be961d246.ttf",
+    "static/media/Montserrat-Regular.ttf": "/CinePhile/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/Raleway-Regular.ttf": "/CinePhile/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
+    "static/media/Raleway-Bold.ttf": "/CinePhile/static/media/Raleway-Bold.18960343b3da49bfd353.ttf",
+    "static/media/logo.svg": "/CinePhile/static/media/logo.6f9786cfbfdaa3a2ab3abfd0ae9c2994.svg",
+    "index.html": "/CinePhile/index.html",
+    "static/media/search.svg": "/CinePhile/static/media/search.df41b64ee1bb06e5ae19184c1088f139.svg",
+    "static/media/bars.svg": "/CinePhile/static/media/bars.77ec453d74a1e0fd41dca13bb8aff691.svg",
+    "main.fbdafbd8.js.map": "/CinePhile/static/js/main.fbdafbd8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fbdafbd8.js"
+  ]
+}
